@@ -1,8 +1,8 @@
 ## Ola, Bem vindo ao meu Mundo! 👋🌎 
 
 - ✌️ Sou Hernany Bastos! 
-- 🔭 Hoje trabalho com Front-end e UX / UI Designer
-- 🌱 Estudando Qualidade de Software, React e Angular
+- 🔭 Hoje trabalho com Front-end com foco em Angular e UX / UI Designer
+- 🌱 Estudando Qualidade de Software, e Angular
 - ☕ Amante de Café
 ##
 <div style="display: inline_block"><br>
